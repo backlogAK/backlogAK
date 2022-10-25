@@ -1,5 +1,5 @@
-![GitHub](https://img.shields.io/github/license/backlogAK/backlogAK-T?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/backlogAK/backlogAK-T.svg?cache=remove)
+![GitHub](https://img.shields.io/github/license/backlogAK/backlogAK?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/backlogAK/backlogAK.svg?cache=remove)
 
 ### Hi there 👋 I'm Ayush,
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
  
- ⭐️ From [backlogAK-T](https://github.com/backlogAK-T)
+ ⭐️ From [backlogAK](https://github.com/backlogAK)

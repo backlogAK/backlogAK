@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/backlogAK/backlogAK?style=flat)
+![GitHub](https://img.shields.io/github/MIT-license/backlogAK/backlogAK?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/backlogAK/backlogAK.svg?cache=remove)
 
 ### Hi there 👋 I'm Ayush,

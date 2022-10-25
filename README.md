@@ -7,10 +7,10 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on Twitter Sentimental Analysis
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing Machine learning
+- 🔭 I’m currently working on my Carrier
+- :bulb: I'm interested in all things related to data: **cloud | DevOps | Data Analysis | AI/ML **
+- 💬 Talk to me about Development, Memes, anything that interests you.
+- 🌱 I’m currently working.. 😉
 
 ### My skills include
 

@@ -25,7 +25,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 	<img title="Kubernetes" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" width="80" height="40" />
 	<img title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="40" />
 	<img title="SonarQube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="105" height="50" />
-	<img title="Jenkins" src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="105" height="50" />
+	<img title="Jenkins" src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="60" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 </p>

@@ -22,10 +22,11 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 <p align="left">
 	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="60" height="40" />
 	<img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 					width="80" height="40" />
-	<img title="Kubernetes" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" width="80" height="40" />
-	<img title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="40" />
 	<img title="SonarQube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="105" height="50" />
 	<img title="Jenkins" src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="80" height="40" />
+	<img title="JFrog" src="https://zededa.com/wp-content/uploads/2021/09/jfrog-1.png" width="80" height="40" />
+	<img title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="40" />
+	<img title="Kubernetes" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" width="80" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 </p>

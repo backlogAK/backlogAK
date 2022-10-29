@@ -20,7 +20,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 ### My skills include
 
 <p align="left">
-	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="70" height="80" />
+	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="70" height="60" />
 	<img title="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />

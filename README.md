@@ -11,7 +11,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 	- When practice meets oppurtunity it is called success
 	- The reason the windshield in a car is big and rear view mirrors are small because what happened in your past is not as important as what will happen in your           future
 	- Don't just be a thermometer that measures temprature be a thermostat that changes temprature
-	   ** Credits - Joel Osteen **
+	   **Credits - Joel Osteen**
 - 🔭 I’m currently working on my **Carrier**
 - :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis | AI/ML**
 - 💬 Talk to me about Development, Memes, anything that interests you.

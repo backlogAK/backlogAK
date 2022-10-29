@@ -21,7 +21,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 
 <p align="left">
 	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="80" height="40" />
-	<img title="AWS" src="https://assets.intersystems.com/dims4/default/a9dad27/2147483647/strip/true/crop/780x422+0+0/resize/780x422!/quality/90/?url=http%3A%2F%2Finter-systems-brightspot.s3.amazonaws.com%2F26%2Fbd%2F6a6aa762425f87ad7d5c2fe65f8c%2Fawslogo-image.jpg" width="80" height="40" />
+	<img title="AWS" src="https://stepinlogic.com/wp-content/uploads/2020/07/aws-logo-1024x626.png" width="80" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" />

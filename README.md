@@ -6,7 +6,12 @@
 A Software engineer passionate about DevOps.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- ⚡ **Things to remember:** 
+	- God expects us to do what we can so that he can do want we can't
+	- When practice meets oppurtunity it is called success
+	- The reason the windshield in a car is big and rear view mirrors are small because what happened in your past is not as important as what will happen in your           future
+	- Don't just be a thermometer that measures temprature be a thermostat that changes temprature
+	   ** Credits - Joel Osteen **
 - 🔭 I’m currently working on my **Carrier**
 - :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis | AI/ML**
 - 💬 Talk to me about Development, Memes, anything that interests you.

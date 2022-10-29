@@ -23,7 +23,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="60" height="40" />
 	<img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 					width="60" height="40" />
 	<img title="Kubernetes" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" width="80" height="40" />
-	<img title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80" height="40" />
+	<img title="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />

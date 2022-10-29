@@ -21,7 +21,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 
 <p align="left">
 	<img title="Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="60" height="40" />
-	<img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 					width="80" height="40" />
+	<img title="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" 					width="60" height="40" />
 	<img title="SonarQube" src="https://www.sonarqube.org/logos/index/sonarqube-logo.png" width="80" height="40" />
 	<img title="Jenkins" src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="80" height="40" />
 	<img title="JFrog" src="https://zededa.com/wp-content/uploads/2021/09/jfrog-1.png" width="80" height="40" />

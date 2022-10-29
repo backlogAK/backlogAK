@@ -29,7 +29,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like automating thing
 	<img title="Kubernetes" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" width="80" height="40" />
 	<img title="Grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.png" width="80" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-	<img title="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" width="70" height="40" />
+	<img title="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" width="80" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 </p>
 

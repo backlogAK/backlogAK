@@ -14,7 +14,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 	           **Credits - Joel Osteen**
 - 🔭 I’m currently working on my **Carrier**
 - :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis**
-- 💬 Talk to me about Development, Memes, anything that interests you.\        <img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
+- 💬 Talk to me about Development, Memes, anything that interests you.\        
 - 🌱 I’m currently open to work.. 😉
 
 ### My skills include
@@ -64,5 +64,6 @@ Here are some ideas to get you started:
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
+<img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
  
  ⭐️ From [backlogAK](https://github.com/backlogAK)

@@ -64,6 +64,6 @@ Here are some ideas to get you started:
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
-<img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
+<img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="800" height="400" />
  
  ⭐️ From [backlogAK](https://github.com/backlogAK)

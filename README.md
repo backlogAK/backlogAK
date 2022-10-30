@@ -13,7 +13,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 	- Don't just be a thermometer that measures temprature be a thermostat that changes temprature. \
 	           **Credits - Joel Osteen**
 - 🔭 I’m currently working on my **Carrier**
-- :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis | AI/ML**
+- :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis**
 - 💬 Talk to me about Development, Memes, anything that interests you.
 - 🌱 I’m currently working.. 😉
 

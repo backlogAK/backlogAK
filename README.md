@@ -14,9 +14,8 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 	           **Credits - Joel Osteen**
 - 🔭 I’m currently working on my **Carrier**
 - :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis**
-- 💬 Talk to me about Development, Memes, anything that interests you.        <img title="Linux" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" width="1000" height="500" />
-- 🌱 I’m currently open to work.. 😉\
-      ![c05e0a986df727559354c449602105d0](https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif)
+- 💬 Talk to me about Development, Memes, anything that interests you.\        <img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
+- 🌱 I’m currently open to work.. 😉
 
 ### My skills include
 

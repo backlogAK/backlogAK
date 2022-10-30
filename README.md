@@ -15,7 +15,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 - 🔭 I’m currently working on my **Carrier**
 - :bulb: I'm interested in all things related to data: **Cloud | DevOps | Data Analysis**
 - 💬 Talk to me about Development, Memes, anything that interests you.
-- 🌱 I’m currently open to work.. 😉
+- 🌱 I’m currently open to work.. 😉\
       ![c05e0a986df727559354c449602105d0](https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif)
 
 ### My skills include

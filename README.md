@@ -34,7 +34,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 	<img title="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" width="80" height="40" />
 	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="Php" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="80" height="40" />
-	<img title="Linux" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg" width="80" height="40" />
+	<img title="Linux" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg" width="50" height="50" />
 </p>
 
 <!--

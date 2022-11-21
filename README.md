@@ -1,8 +1,7 @@
 ![GitHub](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/backlogAK/backlogAK.svg?cache=remove)
 
-
-<img title="Hello" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F3ace2c813ca49546f3f5f20cd03a2d3e&psig=AOvVaw3i1ypybbfF7aArQEsiT4Ei&ust=1669088760947000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDu6KauvvsCFQAAAAAdAAAAABAE" width="1000" height="500" />
+![hello](https://user-images.githubusercontent.com/94915531/202961617-c7883e7d-ccff-4daa-a986-dedb06958962.gif)
 
 ### Hi there 👋 I'm Ayush,
 

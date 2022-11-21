@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/ayushgoley"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
     <a href="mailto:ayushkumargoley@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://hashnode.com/@AyushGoley"><img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" title="Hashnode" width="80" height="40" /></a>
+    <a href="https://hashnode.com/@AyushGoley"><img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" title="Hashnode" width="100" height="30" /></a>
 </p>
 <hr \>
 <p align="center">
@@ -66,6 +66,6 @@ Here are some ideas to get you started:
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
-<img title="Linux" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
+<img title="gif" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
  
  ⭐️ From [backlogAK](https://github.com/backlogAK)

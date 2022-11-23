@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 
 ### Badges
 
+<b>My GitHub Trophies</b>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/backlogAK"><img src="https://github-readme-stats.vercel.app/api?username=backlogAK&show_icons=true&hide=prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayush Goley's GitHub stats" /></a>

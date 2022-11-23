@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ### Badges
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=onedark)](https://github.com/backlogAKy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=onedark)](https://github.com/backlogAK)
 
 <b>My GitHub Stats</b>
 
@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 <!--
 <a href="https://github.com/backlogAK" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backlogAK&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-<img title="gif" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="500" height="500" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=onedark)](https://github.com/backlogAK)
  
  ⭐️ From [backlogAK](https://github.com/backlogAK)

@@ -69,8 +69,7 @@ Here are some ideas to get you started:
 
 ### Badges
 
-<b>My GitHub Trophies</b>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=onedark)](https://github.com/backlogAKy)
 
 <b>My GitHub Stats</b>
 

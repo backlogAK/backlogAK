@@ -66,6 +66,13 @@ Here are some ideas to get you started:
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>       
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/backlogAK"><img src="https://github-readme-stats.vercel.app/api?username=backlogAK&show_icons=true&hide=prs,contribs&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ayush Goley's GitHub stats" /></a>
+
 <img title="gif" src="https://user-images.githubusercontent.com/94915531/198888737-bcbf94d0-479f-4727-b9e6-c55052a73be4.gif" width="1000" height="500" />
  
  ⭐️ From [backlogAK](https://github.com/backlogAK)

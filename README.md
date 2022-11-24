@@ -42,7 +42,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 
 <br>
 <p align="center">
-   **<i>People who think that they can change the world are the ones who do change the world</i>**
+   <i>**People who think that they can change the world are the ones who do change the world**</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
 </p>       

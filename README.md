@@ -44,7 +44,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 <p align="center">
    <b><i>People who think that they can change the world are the ones who do change the world</i></b>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+	<b><i>You miss 100% of the shots you don't take.</i></b>
 </p>       
 
 ### Badges

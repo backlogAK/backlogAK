@@ -39,6 +39,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/ayushgoleyK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ayushgoleyK" /></a></p><br><br>
+</hr>
 
 <p align="center">
    <i>People who think that they can change the world are the ones who do change the world</i>

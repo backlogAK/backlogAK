@@ -26,13 +26,20 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
     
    Do :star: my work if you find it interesting, it helps me stay on track and be motivated.
    
-<br>
-<p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/ayushgoley"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-    <a href="mailto:ayushkumargoley@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://hashnode.com/@AyushGoley"><img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" title="Hashnode" width="40" height="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ayushkumargoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkumargoley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ayushgoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayushgoley" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/ayushkumar216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayushkumar216" height="30" width="40" /></a>
+<a href="https://hashnode.com/ayushgoley.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ayushgoley.hashnode.dev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ayushgoley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushgoley/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ayushkumargoley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ayushkumargoley" height="30" width="40" /></a>
+<a href="https://discord.gg/Ayush#2738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayush#2738" height="30" width="40" /></a>
 </p>
-<hr \>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/ayushgoleyK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ayushgoleyK" /></a></p><br><br>
+
 <p align="center">
    <i>People who think that they can change the world are the ones who do change the world</i>
    <br>

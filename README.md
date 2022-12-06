@@ -60,7 +60,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 [![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=gruvbox&row=1)](https://github.com/backlogAK)
 
 
-[![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=backlogAK&hide_border=true&theme=redical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=backlogAK&theme=merko)](https://github.com/backlogAK)
 
  -->
  ⭐️ From [backlogAK](https://github.com/backlogAK)

@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm Ayush,
 
-A Software engineer passionate about DevOps.:bar_chart:. I like development, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation
+A Software engineer passionate about DevOps. I like development, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Cloud computing, 🚀 DevOps, new Innovation.
 
 
 - ⚡ **Things to remember:** 
@@ -59,7 +59,7 @@ A Software engineer passionate about DevOps.:bar_chart:. I like development, bui
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=backlogAK&theme=gruvbox&row=1)](https://github.com/backlogAK)
 
-[![Ayush github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=backlogAK&theme=merko)](https://github.com/backlogAK)
+[![Ayush github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=backlogAK&theme=merko)](https://github.com/backlogAK)
 
  
 ⭐️ From [backlogAK](https://github.com/backlogAK)

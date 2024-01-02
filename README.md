@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm Ayush,
 
-A Software engineer passionate about DevOps. I like development, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Cloud computing, 🚀 DevOps, new Innovation.
+A Software engineer passionate about Cloud Engineering, DevOps and aspiring consultant. I like development, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Cloud computing, 🚀 DevOps, new Innovation.
 
 
 - ⚡ **Things to remember:** 
